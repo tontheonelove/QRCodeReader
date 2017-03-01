@@ -26,4 +26,4 @@ Example Content  >>  {"name":"TON","address":"Thailand,Samutprakarn"}
 
 
 
-https://github.com/tontheonelove/QRCodeReader/blob/master/android-qr-code-scanner.jpg
+<IMG src=android-qr-code-scanner.jpg/>
